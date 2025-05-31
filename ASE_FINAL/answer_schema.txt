@@ -1,0 +1,17 @@
+overfitting
+noise
+random fluctuations
+poor generalization
+test data
+training data
+complex model
+too many parameters
+insufficient training data
+too many epochs
+reduce parameters
+cross-validation
+more data
+early stopping
+generalization
+unseen data
+regularization
